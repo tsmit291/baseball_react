@@ -1,7 +1,10 @@
 import React from 'react';
 class App extends React.Component {
   render() {
-    return <div>Hello World TEISIA</div>
+    return <div>Hello World</div>
   }
 }
 export default App
+
+
+// this is where you render things.
